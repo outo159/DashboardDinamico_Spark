@@ -63,12 +63,7 @@ col1 ,col2 = st.columns([2,1])
 with col1:
     if os.path.exists("registro.csv"):
         with open("registro.csv","rb") as file:
-            st.download_button(
-                label="Descargar data",
-                data=file,
-                file_name="registro.csv",
-                mime="text/csv"
-            )
+            pass
 with col2:
     numero = st.number_input("Instancia a borrar",min_value=0,step=1)
     if st.button("Eliminar registro"):
