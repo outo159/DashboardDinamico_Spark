@@ -81,3 +81,8 @@ with col2:
         title='Relacion carrera edad')
 
     st.plotly_chart(fig2, use_container_width=True, key="pie2")
+    col1, col2 = st.columns([1,1])
+    with col1:
+        pass
+    with col2:
+        st.page_link("dashboard.py", label="⬅️ Volver a la página principal")
