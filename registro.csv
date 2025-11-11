@@ -1,3 +1,101 @@
-Nombre,Edad,Codigo de estudiante,Correo,Cursos llevados
-saul,51,1245123,saulkolia123@gmail.com,123
-oaskdoaksd,21,124214,patito@gmail.com,2
+Carrera universitaria,Ciclo académico,Día nacimiento,Mes nacimiento,Año nacimiento,Género,Primera letra Nombre,Almuerzo favorito,Curso favorito,Nro Mascotas
+Educación,II,10,12,2003,Masculino,E,Pollo a la brasa,Estadística,3
+Psicología,IV,01,11,2000,Otro,D,Lomo saltado,Estadística,2
+Medicina,VII,23,05,2002,Otro,Z,Lomo saltado,Estadística,4
+Arquitectura,IX,04,09,2001,Femenino,C,Ceviche,Programación,5
+Administración,II,21,10,2005,Femenino,T,Tallarin verde,Lenguaje,3
+Psicología,VI,15,09,2005,Masculino,F,Ensalada,Matemática,0
+Economía,III,10,12,1996,Otro,V,Ceviche,Biología,2
+Derecho,IX,27,01,2005,Masculino,M,Hamburguesa,Programación,5
+Medicina,X,26,03,2001,Femenino,Z,Pollo a la brasa,Diseño,2
+Psicología,IV,05,06,1995,Femenino,Q,Pollo a la brasa,Biología,0
+Arquitectura,IV,19,03,1999,Femenino,B,Lomo saltado,Programación,4
+Economía,I,12,03,2002,Masculino,Q,Ensalada,Diseño,5
+Contabilidad,I,25,09,1999,Otro,P,Pollo a la brasa,Lenguaje,5
+Arquitectura,VI,15,08,2000,Otro,C,Hamburguesa,Lenguaje,1
+Contabilidad,V,20,09,2004,Masculino,R,Tallarin verde,Estadística,3
+Arquitectura,V,23,04,2004,Femenino,Y,Pollo a la brasa,Matemática,0
+Arquitectura,X,18,10,2005,Masculino,Q,Lomo saltado,Física,5
+Arquitectura,VII,28,01,2001,Femenino,N,Lomo saltado,Física,2
+Arquitectura,I,27,02,1998,Masculino,E,Ají de gallina,Programación,1
+Psicología,V,26,12,2003,Masculino,T,Arroz chaufa,Diseño,1
+Medicina,VIII,14,03,2004,Femenino,G,Tallarin verde,Diseño,0
+Arquitectura,X,19,07,1995,Otro,J,Ceviche,Biología,4
+Contabilidad,IV,02,06,2003,Otro,G,Hamburguesa,Estadística,2
+Derecho,IV,17,02,1996,Femenino,S,Arroz chaufa,Biología,5
+Psicología,IX,10,05,2001,Masculino,V,Arroz chaufa,Diseño,2
+Arquitectura,VI,18,07,1999,Masculino,J,Pollo a la brasa,Matemática,1
+Economía,V,05,09,1997,Masculino,R,Ensalada,Estadística,1
+Administración,IX,28,04,2000,Otro,K,Ceviche,Programación,1
+Contabilidad,I,01,08,2003,Femenino,R,Arroz chaufa,Programación,1
+Contabilidad,IV,25,03,2005,Femenino,K,Arroz chaufa,Diseño,0
+Psicología,VIII,19,03,1997,Femenino,F,Pollo a la brasa,Biología,4
+Medicina,III,07,07,2005,Otro,T,Hamburguesa,Programación,2
+Medicina,VIII,15,10,1998,Masculino,Q,Ensalada,Historia,2
+Contabilidad,VII,01,12,2002,Otro,T,Lomo saltado,Historia,0
+Arquitectura,IV,07,12,1998,Masculino,O,Ají de gallina,Diseño,1
+Ingeniería de Software,VI,07,12,2000,Femenino,O,Ensalada,Diseño,2
+Psicología,X,28,09,1998,Masculino,N,Arroz chaufa,Historia,4
+Medicina,VI,23,03,2002,Masculino,X,Tallarin verde,Física,3
+Economía,VI,07,06,1995,Femenino,P,Ceviche,Programación,0
+Arquitectura,III,20,07,1999,Femenino,Z,Arroz chaufa,Historia,4
+Educación,VII,24,08,2002,Femenino,O,Pollo a la brasa,Historia,2
+Psicología,II,04,06,2000,Femenino,G,Arroz chaufa,Estadística,2
+Ingeniería de Software,IV,01,05,2000,Masculino,T,Ceviche,Diseño,4
+Contabilidad,IX,02,09,2001,Otro,Q,Ají de gallina,Física,1
+Economía,IX,15,08,2003,Masculino,H,Ensalada,Programación,3
+Arquitectura,VII,15,08,1999,Otro,G,Arroz chaufa,Matemática,0
+Administración,III,15,08,1995,Otro,P,Tallarin verde,Programación,2
+Psicología,V,04,06,2001,Masculino,P,Arroz chaufa,Biología,0
+Arquitectura,VI,26,08,1997,Femenino,E,Hamburguesa,Biología,4
+Educación,I,05,09,1996,Otro,P,Ají de gallina,Diseño,1
+Psicología,VIII,21,06,2004,Masculino,E,Ensalada,Biología,5
+Administración,VIII,08,04,2003,Masculino,H,Ají de gallina,Diseño,3
+Psicología,V,25,06,2001,Masculino,I,Tallarin verde,Biología,4
+Contabilidad,II,17,08,1998,Otro,N,Arroz chaufa,Historia,2
+Economía,X,27,03,1995,Femenino,S,Ensalada,Historia,1
+Ingeniería de Software,IX,15,12,1999,Masculino,C,Hamburguesa,Matemática,2
+Psicología,X,23,02,1995,Otro,N,Ceviche,Biología,0
+Psicología,IX,22,03,1996,Masculino,F,Ceviche,Física,2
+Derecho,IV,20,10,2002,Otro,G,Ceviche,Lenguaje,1
+Arquitectura,III,20,02,2002,Masculino,N,Arroz chaufa,Diseño,5
+Derecho,VI,05,03,1997,Masculino,M,Lomo saltado,Lenguaje,1
+Psicología,VII,20,03,2004,Femenino,D,Tallarin verde,Estadística,3
+Arquitectura,V,19,02,1998,Femenino,W,Lomo saltado,Biología,2
+Arquitectura,IX,16,07,2000,Otro,C,Lomo saltado,Lenguaje,0
+Administración,VI,08,01,1997,Femenino,X,Ceviche,Física,2
+Derecho,VI,23,03,1997,Masculino,L,Ensalada,Estadística,4
+Economía,VIII,21,10,1998,Masculino,V,Ceviche,Historia,4
+Ingeniería de Software,V,12,12,2002,Femenino,M,Hamburguesa,Diseño,2
+Educación,I,11,04,1995,Otro,E,Pollo a la brasa,Historia,2
+Medicina,VII,09,07,2003,Otro,L,Lomo saltado,Estadística,4
+Arquitectura,VII,08,03,1998,Masculino,Q,Arroz chaufa,Biología,1
+Educación,X,19,10,1999,Femenino,E,Ensalada,Historia,0
+Educación,IV,25,08,1999,Masculino,P,Tallarin verde,Física,5
+Derecho,III,27,04,1996,Masculino,H,Hamburguesa,Física,3
+Psicología,VII,20,06,2001,Otro,U,Lomo saltado,Física,1
+Derecho,III,20,01,1999,Otro,C,Pollo a la brasa,Estadística,4
+Psicología,IX,02,09,2003,Masculino,K,Lomo saltado,Matemática,4
+Derecho,X,20,04,2001,Femenino,X,Arroz chaufa,Historia,4
+Derecho,I,27,05,2005,Femenino,M,Ají de gallina,Física,3
+Ingeniería de Software,III,10,01,1996,Otro,N,Lomo saltado,Matemática,1
+Psicología,IV,04,01,2004,Femenino,U,Hamburguesa,Física,1
+Economía,X,24,05,2005,Masculino,Y,Pollo a la brasa,Física,1
+Economía,X,19,10,2001,Femenino,I,Tallarin verde,Lenguaje,2
+Educación,VI,28,10,2003,Masculino,V,Pollo a la brasa,Lenguaje,0
+Contabilidad,IV,02,08,2003,Masculino,P,Ají de gallina,Matemática,5
+Educación,I,19,03,1995,Masculino,T,Tallarin verde,Estadística,5
+Derecho,I,01,05,2002,Masculino,C,Ají de gallina,Estadística,3
+Arquitectura,II,16,05,1997,Otro,J,Ceviche,Matemática,0
+Contabilidad,VI,11,07,2001,Femenino,B,Ceviche,Lenguaje,2
+Medicina,X,14,04,1998,Otro,B,Pollo a la brasa,Matemática,0
+Educación,X,03,09,1998,Femenino,C,Ceviche,Diseño,0
+Contabilidad,V,25,08,2000,Masculino,D,Ensalada,Biología,3
+Medicina,X,20,05,1995,Masculino,N,Arroz chaufa,Física,0
+Economía,VI,22,09,2005,Otro,H,Ají de gallina,Física,5
+Economía,VIII,15,10,2000,Otro,J,Lomo saltado,Física,5
+Contabilidad,VIII,12,08,2003,Femenino,J,Pollo a la brasa,Diseño,1
+Educación,VII,21,01,2005,Otro,A,Pollo a la brasa,Diseño,1
+Contabilidad,VII,21,01,1997,Masculino,F,Pollo a la brasa,Lenguaje,5
+Economía,V,01,08,2000,Femenino,R,Tallarin verde,Programación,2
+Educación,IX,22,02,2002,Femenino,Y,Pollo a la brasa,Historia,4
