@@ -5,6 +5,10 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import seaborn as sns
 
+####
+#  AGREGAR NUEVAS GRAFICAS
+####
+
 st.set_page_config(
     page_title="Graficas de datos",
     page_icon="imagenes/icono.png"

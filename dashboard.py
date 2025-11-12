@@ -3,10 +3,6 @@ import pandas as pd
 import os
 import datetime as dt
 
-###
-# NUEVO FORMULARIO?
-###
-
 st.set_page_config(
     page_title="Form dashboard",
     page_icon="imagenes/icono.png"
